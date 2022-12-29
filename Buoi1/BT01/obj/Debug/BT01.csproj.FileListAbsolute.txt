@@ -1,0 +1,11 @@
+E:\CSDLvsMySQL\CSDL_basic\Buoi1\BT01\bin\Debug\BT01.exe.config
+E:\CSDLvsMySQL\CSDL_basic\Buoi1\BT01\bin\Debug\BT01.exe
+E:\CSDLvsMySQL\CSDL_basic\Buoi1\BT01\bin\Debug\BT01.pdb
+E:\CSDLvsMySQL\CSDL_basic\Buoi1\BT01\obj\Debug\BT01.csproj.AssemblyReference.cache
+E:\CSDLvsMySQL\CSDL_basic\Buoi1\BT01\obj\Debug\BT01.csproj.SuggestedBindingRedirects.cache
+E:\CSDLvsMySQL\CSDL_basic\Buoi1\BT01\obj\Debug\BT01.Form1.resources
+E:\CSDLvsMySQL\CSDL_basic\Buoi1\BT01\obj\Debug\BT01.Properties.Resources.resources
+E:\CSDLvsMySQL\CSDL_basic\Buoi1\BT01\obj\Debug\BT01.csproj.GenerateResource.cache
+E:\CSDLvsMySQL\CSDL_basic\Buoi1\BT01\obj\Debug\BT01.csproj.CoreCompileInputs.cache
+E:\CSDLvsMySQL\CSDL_basic\Buoi1\BT01\obj\Debug\BT01.exe
+E:\CSDLvsMySQL\CSDL_basic\Buoi1\BT01\obj\Debug\BT01.pdb
